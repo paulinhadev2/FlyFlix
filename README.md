@@ -1,6 +1,6 @@
 # Como baixar o repositório?
 
-Abra o terminal e cole o seguinte comando: `git@github.com:catharin4/FlyFlix.git`
+Abra o terminal e cole o seguinte comando: `git clone git@github.com:catharin4/FlyFlix.git`
 
 Em seguida, digite `cd FlyFlix/app`
 
